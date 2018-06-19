@@ -13,7 +13,7 @@
 
 <p align="center">This is the basic file that you need</p>
 <div align="center">
-<img alt="@Shijie Zhou" src="/file.png" />
+<img width="30%" alt="@Shijie Zhou" src="/file.png" />
 </div>
 
 ```
