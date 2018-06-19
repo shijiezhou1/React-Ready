@@ -3,6 +3,10 @@
 <p align="center">How to setup react and all elements</p>
 <div align="center"><a href="https://shijiezhou1.github.io/my-app/"><img alt="@Shijie Zhou" src="http://ppizarror.com/badges/licensemit.svg" /></a>
 <a href="https://shijiezhou1.github.io/my-app/"><img alt="MIT License" src="http://ppizarror.com/badges/licensemit.svg" /></a>
-<a href="https://shijiezhou1.github.io/my-app/"><img alt="Python 2.7" src="http://ppizarror.com/badges/licensemit.svg" /></a>
+<a href="https://shijiezhou1.github.io/my-app/"><img alt="Python 2.7" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" />
+</a>
+<a href="https://shijiezhou1.github.io/my-app/"><img alt="@Shijie Zhou" src="https://travis-ci.org/hyperium/hyper.svg?branch=master" /></a>
+  <a href="https://shijiezhou1.github.io/my-app/"><img alt="@Shijie Zhou" src="https://coveralls.io/repos/github/hyperium/hyper/badge.svg?branch=master" /></a>
+   <a href="https://shijiezhou1.github.io/my-app/"><img alt="@Shijie Zhou" src="https://img.shields.io/wordpress/plugin/dt/akismet.svg" /></a>
 </div><br />
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
