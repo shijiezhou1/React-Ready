@@ -13,38 +13,9 @@
 
 <p align="center">This is the basic file that you need</p>
 <div align="center">
-  ```
-├── README.md
-├── build
-│   ├── asset-manifest.json
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── manifest.json
-│   ├── service-worker.js
-│   └── static
-│       ├── css
-│       │   ├── main.c17080f1.css
-│       │   └── main.c17080f1.css.map
-│       ├── js
-│       │   ├── main.316bd30d.js
-│       │   └── main.316bd30d.js.map
-│       └── media
-│           └── logo.5d5d9eef.svg
-├── package-lock.json
-├── package.json
-├── public
-│   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
-└── src
-    ├── App.css
-    ├── App.js
-    ├── App.test.js
-    ├── index.css
-    ├── index.js
-    ├── logo.svg
-    └── registerServiceWorker.js
 
-7 directories, 23 files
-  ```
 </div>
+
+```
+asdasdsa
+```
