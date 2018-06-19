@@ -6,3 +6,10 @@
 [![Build Status](https://img.shields.io/travis/amazeui/amazeui.svg?style=flat-square)](https://travis-ci.org/amazeui/amazeui)
 [![Dependency Status](https://img.shields.io/david/amazeui/amazeui.svg?style=flat-square)](https://david-dm.org/amazeui/amazeui)
 [![devDependency Status](https://img.shields.io/david/dev/amazeui/amazeui.svg?style=flat-square)](https://david-dm.org/amazeui/amazeui#info=devDependencies)
+
+
+<p align="center">Generate a README.md file from a configuration file</p>
+<div align="center"><a href="http://ppizarror.com"><img alt="@ppizarror" src="http://ppizarror.com/badges/author.svg" /></a>
+<a href="https://opensource.org/licenses/MIT/"><img alt="MIT License" src="http://ppizarror.com/badges/licensemit.svg" /></a>
+<a href="https://www.python.org/downloads/"><img alt="Python 2.7" src="http://ppizarror.com/badges/python27.svg" /></a>
+</div><br />
