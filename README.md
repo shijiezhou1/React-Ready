@@ -11,7 +11,7 @@
 </div><br />
 
 
-<p align="center">This is the basic file that you need</p>
+<p align="center">This is the basic files tree in your folder</p>
 <div align="center">
 <img width="30%" alt="@Shijie Zhou" src="/file.png" />
 </div>
