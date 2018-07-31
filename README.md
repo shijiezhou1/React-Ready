@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/shijiezhou1/my-app.svg)](https://greenkeeper.io/)
+
 <h1 ><div align="center"><a href="https://shijiezhou1.github.io/my-app/" title="React"><img style="float: left" width="240" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLn7N4OukJc43MJIiL2i1rlXmt2yeVHIILQOviOdedFNKLMh1bow" alt="REACT LOGO"/></center></a></div></h1>
 
 <p align="center">How to setup react and all elements</p>
