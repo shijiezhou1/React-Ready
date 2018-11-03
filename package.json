@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "React-Ready",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://shijiezhou1.github.io/my-app/",
+  "homepage": "https://shijiezhou1.github.io/React-Ready/",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
